@@ -15,7 +15,7 @@
 
 ### 1. 完整教程
 
-[codex_tutorial.md](/home/erhan/project/codex_tutorial/codex_tutorial.md)
+[codex_tutorial.md](./codex_tutorial.md)
 
 适合第一次系统学习时阅读。  
 内容重点：
@@ -29,7 +29,7 @@
 
 ### 2. 速查手册
 
-[codex_cheatsheet.md](/home/erhan/project/codex_tutorial/codex_cheatsheet.md)
+[codex_cheatsheet.md](./codex_cheatsheet.md)
 
 适合平时快速翻看和复制。  
 内容重点：
@@ -42,7 +42,7 @@
 
 ### 3. 实战案例
 
-[codex_case_studies.md](/home/erhan/project/codex_tutorial/codex_case_studies.md)
+[codex_case_studies.md](./codex_case_studies.md)
 
 适合想看“完整任务怎么问、怎么推进、怎么验收”的用户。  
 内容重点：
@@ -57,7 +57,7 @@
 
 ### 4. 提示词库
 
-[codex_prompt_library.md](/home/erhan/project/codex_tutorial/codex_prompt_library.md)
+[codex_prompt_library.md](./codex_prompt_library.md)
 
 适合直接复制到 Codex CLI 里使用。  
 内容重点：
@@ -71,7 +71,7 @@
 
 ### 5. 常见问题 FAQ
 
-[codex_cli_faq.md](/home/erhan/project/codex_tutorial/codex_cli_faq.md)
+[codex_cli_faq.md](./codex_cli_faq.md)
 
 适合遇到卡点时快速查阅。  
 内容重点：
@@ -90,11 +90,11 @@
 
 如果你是第一次接触 Codex CLI，建议按这个顺序看：
 
-1. 先读 [codex_tutorial.md](/home/erhan/project/codex_tutorial/codex_tutorial.md)，建立整体认知
-2. 再看 [codex_cheatsheet.md](/home/erhan/project/codex_tutorial/codex_cheatsheet.md)，熟悉日常常用句式
-3. 接着看 [codex_case_studies.md](/home/erhan/project/codex_tutorial/codex_case_studies.md)，理解真实任务怎么推进
-4. 然后把 [codex_prompt_library.md](/home/erhan/project/codex_tutorial/codex_prompt_library.md) 当作可复制模板库
-5. 最后把 [codex_cli_faq.md](/home/erhan/project/codex_tutorial/codex_cli_faq.md) 作为遇到问题时的排错手册
+1. 先读 [codex_tutorial.md](./codex_tutorial.md)，建立整体认知
+2. 再看 [codex_cheatsheet.md](./codex_cheatsheet.md)，熟悉日常常用句式
+3. 接着看 [codex_case_studies.md](./codex_case_studies.md)，理解真实任务怎么推进
+4. 然后把 [codex_prompt_library.md](./codex_prompt_library.md) 当作可复制模板库
+5. 最后把 [codex_cli_faq.md](./codex_cli_faq.md) 作为遇到问题时的排错手册
 
 ---
 
@@ -102,9 +102,9 @@
 
 可以直接走这条最短路径：
 
-1. 先读 [codex_cheatsheet.md](/home/erhan/project/codex_tutorial/codex_cheatsheet.md)
-2. 再从 [codex_prompt_library.md](/home/erhan/project/codex_tutorial/codex_prompt_library.md) 里复制一个模板
-3. 遇到问题时查 [codex_cli_faq.md](/home/erhan/project/codex_tutorial/codex_cli_faq.md)
+1. 先读 [codex_cheatsheet.md](./codex_cheatsheet.md)
+2. 再从 [codex_prompt_library.md](./codex_prompt_library.md) 里复制一个模板
+3. 遇到问题时查 [codex_cli_faq.md](./codex_cli_faq.md)
 
 这样上手最快。
 
