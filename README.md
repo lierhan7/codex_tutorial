@@ -129,28 +129,3 @@
 如果你只记住一句话，记这个就够了：
 
 `任务具体，边界明确，改完验证。`
-
----
-
-## 当前文件清单
-
-本目录目前包含：
-
-- [README.md](/home/erhan/project/codex_tutorial/README.md)
-- [codex_tutorial.md](/home/erhan/project/codex_tutorial/codex_tutorial.md)
-- [codex_cheatsheet.md](/home/erhan/project/codex_tutorial/codex_cheatsheet.md)
-- [codex_case_studies.md](/home/erhan/project/codex_tutorial/codex_case_studies.md)
-- [codex_prompt_library.md](/home/erhan/project/codex_tutorial/codex_prompt_library.md)
-- [codex_cli_faq.md](/home/erhan/project/codex_tutorial/codex_cli_faq.md)
-
----
-
-## 后续还能继续扩展什么
-
-如果你还想把这套教程继续完善，下一步最有价值的方向通常有两个：
-
-- 增加一份“不同任务类型的最佳提问示例”
-- 增加一份“从零到一的模拟练习题”
-
-如果你愿意，我可以继续直接把这两份也补上。
-
